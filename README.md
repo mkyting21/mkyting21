@@ -2,7 +2,7 @@
 - 👀 I’m interested in plant biology.
 - 🌱 I’m currently learning R and python.
 - 💞️ I’m looking to collaborate on any plant related projects.
-- 📫 How to reach me: email mkyting@gmail.com
+- 📫 How to reach me: email ting@mpimp-golm.mpg.de
 
 <!---
 mkyting21/mkyting21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
