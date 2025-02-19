@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mkyting21
 - 👀 I’m interested in plant biology.
-- 🌱 I’m currently learning R and python.
 - 📫 How to reach me: email ting@mpimp-golm.mpg.de
 
 <!---
