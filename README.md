@@ -1,5 +1,5 @@
+# My info
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in plant biology.
 - 📫 How to reach me: email ting@mpimp-golm.mpg.de
 
 <!---
